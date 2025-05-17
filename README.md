@@ -49,10 +49,21 @@ SISTA dikembangkan untuk mendukung proses pengelolaan sidang tugas akhir di ling
 
 ### ✅ Pendaftaran Sidang TA oleh Mahasiswa
 
-1. Upload proposal TA
-2. Memilih pembimbing TA
-3. Menunggu validasi dari pembimbing dan kaprodi
-4. Melihat status & jadwal seminar proposal
+1. Membuat Proposal TA dan seminar Proposal TA  
+   Untuk membuat jadwal Proposal TA, masuk ke menu Proposal TA pada sidebar sebelah kiri. tekan ‘add jawal’ untuk membuat  
+   - Mahasiswa memilih 2 pembimbing yang akan membimbing selama pengerjaan TA  
+   - Mahasiswa mengupload Proposal TA untuk divalidasi oleh pembimbing dan kaprodi  
+   - Mahasiswa tinggal menunggu hasil validasi dari pembimbing dan kaprodi  
+   - Mahasiswa bisa melihat status proposal pada menu Status Proposal  
+   - Setelah proposal TA divalidasi oleh pembimbing dan kaprodi maka kaprodi akan membuat jadwal seminar proposal untuk mahasiswa tersebut  
+   - Mahasiswa bisa melihat jadwal sidang di jadwal Proposal TA  
+
+2. Mendaftar Sidang TA  
+   Setelah TA mahasiswa telah selesai, maka selanjutnya adalah sidang TA. Masuk ke menu Sidang TA kemudian tekan ‘add sidang’ untuk mendaftar sidang TA  
+   - Cara yang sama dengan pendaftaran Seminar Proposal TA  
+   - Berkas yang diupload bertambah menjadi laporan TA, laporan PKL, proposal TA, dan lembar bimbingan
+
+
 
 ### ✅ Pendaftaran Sidang TA oleh Kaprodi
 
