@@ -35,10 +35,13 @@ SISTA dikembangkan untuk mendukung proses pengelolaan sidang tugas akhir di ling
   - NIM / NIDN / NIP (min. 10 karakter)
   - Email aktif & unik
   - Password (min. 6 karakter)
+![Regis1](https://github.com/AkmalRendiansyah/tes0/blob/main/regis1.png)
+![Regis2](https://github.com/AkmalRendiansyah/tes0/blob/main/regis2.png)
 
 #### Login
 
 - Masukkan email dan password yang telah didaftarkan.
+  ![Login](https://github.com/AkmalRendiansyah/tes0/blob/main/login.png)
 
 ---
 
