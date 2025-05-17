@@ -6,6 +6,36 @@ Aplikasi **Sistem Informasi Sidang Tugas Akhir (SISTA)** merupakan sistem berbas
 
 SISTA dikembangkan untuk mendukung proses pengelolaan sidang tugas akhir di lingkungan kampus. Aplikasi ini memfasilitasi proses registrasi pengguna (mahasiswa, dosen, kaprodi), pendaftaran sidang, penjadwalan, penilaian, dan pelaporan sidang TA secara terintegrasi.
 
+## 🗄️ Import Database
+
+Untuk menjalankan aplikasi ini secara lokal, Anda perlu melakukan import database terlebih dahulu. Berikut langkah-langkahnya:
+
+1. Buka aplikasi database Anda seperti phpMyAdmin, MySQL Workbench, atau gunakan terminal.
+2. Buat database baru dengan nama:sidangta
+
+3. Import file sidangta.sql yang tersedia di dalam folder project (biasanya di folder database atau root project):
+
+- Jika menggunakan phpMyAdmin:
+  - Masuk ke phpMyAdmin
+  - Pilih database sidangta
+  - Klik tab Import
+  - Pilih file sidangta.sql
+  - Tekan tombol Go
+
+- Jika menggunakan terminal:
+
+  ```
+  mysql -u root -p sidangta < path/ke/sidangta.sql
+  ```
+
+(Ganti path/ke/sidangta.sql dengan path sebenarnya ke file tersebut)
+
+4. Setelah proses impor selesai, database siap digunakan oleh aplikasi SISTA.
+
+Pastikan koneksi database pada file .env sudah sesuai dengan konfigurasi lokal Anda.
+
+
+
 ## 📁 Struktur Menu
 
 1. **Landing Page**
