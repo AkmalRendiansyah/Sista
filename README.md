@@ -65,11 +65,14 @@ SISTA dikembangkan untuk mendukung proses pengelolaan sidang tugas akhir di ling
    Setelah TA mahasiswa telah selesai, maka selanjutnya adalah sidang TA. Masuk ke menu Sidang TA kemudian tekan ‘add sidang’ untuk mendaftar sidang TA  
    - Cara yang sama dengan pendaftaran Seminar Proposal TA  
    - Berkas yang diupload bertambah menjadi laporan TA, laporan PKL, proposal TA, dan lembar bimbingan
+![daftarta](https://github.com/AkmalRendiansyah/tes0/blob/main/daftarsidang.png)
 
 
 
 ### ✅ Pendaftaran Sidang TA oleh Kaprodi
-
+Disini kaprodi akan membuat jadwal sidang untuk mahasiswa. sebelum dibuatkan jadwal maka harus dipastikan bahwa dokumen sudah lengkap dan disetujui oleh kaprodi dan pembimbing.
+Disini contohnya adalah penjadwalan Sidang TA, akan muncul list mahasiswa yang akan melakukan sidang TA
+![jadwalta](https://github.com/AkmalRendiansyah/tes0/blob/main/jadwalta.png)
 - Validasi berkas mahasiswa
 - Penjadwalan sidang (input:
   - Mahasiswa
@@ -79,14 +82,19 @@ SISTA dikembangkan untuk mendukung proses pengelolaan sidang tugas akhir di ling
 ### ✅ Penilaian Sidang
 
 - Penguji dan pembimbing memberikan nilai dan komentar
+  ![nilai](https://github.com/AkmalRendiansyah/tes0/blob/main/nilai.png)
 - Sistem menghitung nilai total otomatis
+- ![total](https://github.com/AkmalRendiansyah/tes0/blob/main/total.png)
 - Mahasiswa bisa melihat hasil akhir pada menu nilai sidang
+- ![lihatnilai](https://github.com/AkmalRendiansyah/tes0/blob/main/lihatnilai.png)
 
 ### ✅ Laporan dan Rekapitulasi
 
 - Admin/Kaprodi dapat mencetak:
   - Laporan penguji sidang
+    ![reportta](https://github.com/AkmalRendiansyah/tes0/blob/main/reportta.png)
   - Laporan kelulusan sidang
+    ![reportstatus](https://github.com/AkmalRendiansyah/tes0/blob/main/reportstatus.png)
 
 ---
 
