@@ -74,10 +74,12 @@ SISTA dikembangkan untuk mendukung proses pengelolaan sidang tugas akhir di ling
 
 ## 🛠️ Teknologi yang Digunakan
 
-- [Laravel](https://laravel.com/) - PHP Web Framework
-- Blade Template Engine
-- MySQL / MariaDB
-- HTML, CSS, JavaScript
+- ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) [Laravel](https://laravel.com/) - PHP Web Framework
+- ![Blade](https://img.shields.io/badge/Blade%20Template-%23F7523F.svg?style=flat&logo=laravel&logoColor=white) Blade Template Engine
+- ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) MySQL / MariaDB
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) HTML
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) CSS
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) JavaScript
 
 ---
 
