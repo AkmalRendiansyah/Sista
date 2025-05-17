@@ -23,7 +23,7 @@ SISTA dikembangkan untuk mendukung proses pengelolaan sidang tugas akhir di ling
 1. Buka web browser (Chrome, Firefox, atau lainnya).
 2. Buka File di vscode atau yang lain buat di terminal ("php artisan serve")
 3. Akan muncul halaman utama (landing page) aplikasi SISTA.
-   (https://github.com/AkmalRendiansyah/tes0/blob/main/landing_page_sista.png)
+   ![Landing Page SISTA](https://github.com/AkmalRendiansyah/tes0/blob/main/landing_page_sista.png)
 
 ### Registrasi & Login
 
